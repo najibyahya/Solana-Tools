@@ -16,3 +16,16 @@
 ```Send All Balance from Tuyul to Main Wallet``` = privkey-tuyul.txt -> privkey-main-wallet.txt<br>
 ```Checker Token``` = input privkey-tuyul.txt / privkey-main-wallet.txt / address only<br>
 ```Send Token``` = privkey-main-wallet.txt -> privkey-tuyul.txt / privkey-tuyul.txt -> privkey-main-wallet.txt<br>
+
+## Install
+```
+npm install
+```
+
+## Run
+```
+node index
+```
+
+## Boterdrop CH
+https://t.me/boterdrop
